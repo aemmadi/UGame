@@ -1,0 +1,28 @@
+{
+  "name": "ugame",
+  "version": "1.0.0",
+  "description": "List of Games, with icons (pictures)\r ### Game Database\r Database with Gmae Icons (igDB)\r ### Store Page\r Best Prices of Every Gamev\r ### Individual Game Page\r Hours Played Stats, Game statistics, Achievements, Properties (open local files)\r ### Login (Account bs)\r Account for users, store user data in account, games, games statistics etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KannaDev/UGame.git"
+  },
+  "author": "Anirudh Emmadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KannaDev/UGame/issues"
+  },
+  "homepage": "https://github.com/KannaDev/UGame#readme",
+  "dependencies": {
+    "appid": "^1.0.3",
+    "customurl2steamid64": "^1.1.0",
+    "dotenv": "^6.2.0",
+    "request-promise": "^2.0.1",
+    "steam-web": "^0.7.0",
+    "superagent": "^4.0.0",
+    "xml2js": "^0.4.16"
+  }
+}
