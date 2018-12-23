@@ -4,7 +4,7 @@
 ### Home Page
 List of Games, with icons (pictures)
 ### Game Database
-Database with Gmae Icons (igDB)
+Database with Game Icons (igDB)
 ### Store Page
 Best Prices of Every Gamev
 ### Individual Game Page
